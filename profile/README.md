@@ -1,7 +1,12 @@
-# Menu Note
-A free to use Mac OS app for taking notes in your Menu Bar!  
-Menu Note is completely programmed in Python using the library `rumps`.
+# Gato Bot
+A simple multi-purpose Discord bot with fun and useful features.  
+Gato's source code is not publicly available but this organisation will be used for sharing open source projects.
 
-> ### Download
-> You can download Menu Note below.  
-> [https://menunote.app/download](https://github.com/MenuNote/menunote/releases/latest/download/Menu.Note.zip)
+> ### Invite
+> Invite gato with the link below!  
+> https://gato.benny.fun/invite
+
+> ### Premium
+> Support the development of Gato and get some exclusive benefits by donating!  
+> *it would be greatly appreciated...*
+> https://gato.benny.fun/#premium
