@@ -1,4 +1,4 @@
-# 📝 Menu Note
+# Menu Note
 A free to use Mac OS app for taking notes in your Menu Bar!  
 Menu Note is completely programmed in Python using the library `rumps`.
 
