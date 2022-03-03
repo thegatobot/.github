@@ -4,4 +4,4 @@ Menu Note is completely programmed in Python using the library `rumps`.
 
 > ### Download
 > You can download Menu Note from our website... its free!  
-> https://menunote.app/
+> [https://menunote.app/download](https://github.com/MenuNote/menunote/releases/latest/download/Menu.Note.zip)
