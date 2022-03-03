@@ -1,12 +1,10 @@
-## Hi there 👋
+# Menu Note
+A free to use Mac OS app for taking notes in your Menu Bar!  
+Menu Note is completely programmed in Python using the library `rumps`.
 
-<!--
+> ### Download
+> You can download Menu Note from our website... its free!  
+> https://menunote.app/
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> ### Developers
+> - [@bentettmar](https://ben.tettmar.com/)
